@@ -1,10 +1,12 @@
+https://github.com/misaproyectil/Sprite_Serial_Control
+https://github.com/Lzw655/ESP32_Display_Panel
 https://github.com/kaiaai/micro_ros_arduino_kaia
 https://github.com/MrYsLab/Telemetrix4UnoR4
 https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512
 https://github.com/andrewhe-princeton/Iridium-GPP
-https://github.com/HoussamElbiade/Digiedge_frame_generator
+https://github.com/DIGI-EDGE/DPE-TRAM-GEN
 https://github.com/Dhruvacube/7-Segment
 https://github.com/ress997/TinyGPSPlusPlus
 https://github.com/1NCE-GmbH/blueprint_arduino
@@ -1334,9 +1336,9 @@ https://github.com/PeaPodTechnologies/I2CIP
 https://github.com/PeterEmbedded/BH1750FVI
 https://github.com/Phambili-Tech/Newt_Display
 https://github.com/Pharap/FixedPointsArduino
-https://github.com/Phoenix1747/Arduino-Pico-Analog-Correction/
-https://github.com/Phoenix1747/MQ135
-https://github.com/Phoenix1747/SimpleShell
+https://github.com/NuclearPhoenixx/Arduino-Pico-Analog-Correction/
+https://github.com/NuclearPhoenixx/MQ135
+https://github.com/NuclearPhoenixx/SimpleShell
 https://github.com/PhracturedBlue/ESP8266MQTTMesh
 https://github.com/Picovoice/picovoice-arduino-ar
 https://github.com/Picovoice/picovoice-arduino-de
@@ -4406,7 +4408,7 @@ https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/m5stack/PoE_CAM
-https://github.com/m5stack/PoE_CAM-Ethernet
+https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/madhephaestus/BNO055SimplePacketComs
@@ -4710,7 +4712,7 @@ https://github.com/nkaaf/Arduino-Signature
 https://github.com/nkolban/ESP32_BLE_Arduino
 https://github.com/noah1510/LedController
 https://github.com/noah1510/generic-Arduino
-https://github.com/noah1510/unit-system-adruino
+https://github.com/unit-system-exports/unit-system-arduino
 https://github.com/npuckett/arduinoAnimation
 https://github.com/nrwiersma/ConfigManager
 https://github.com/nrwiersma/ESP8266Scheduler
@@ -6111,10 +6113,10 @@ https://github.com/mobizt/ESP_SSLClient
 https://github.com/IFRN-robotica-CM/CosmosNV2
 https://github.com/barbarossa12/sht3x-dis-arduino-lib
 https://bitbucket.org/jezhill/Keyhole
-https://github.com/epsilonrt/pimp
 https://github.com/ripred/Profiler
 https://github.com/epsilonrt/pImpl
 https://github.com/iory/i2c-for-esp32
 https://github.com/abcdaaaaaaaaa/MQSpaceData.h
 https://github.com/casiez/OneEuroFilterArduino
 https://github.com/EvTheFuture/WebConsole
+https://github.com/gbr1/ucPack
