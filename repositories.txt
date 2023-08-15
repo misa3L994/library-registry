@@ -1,4 +1,4 @@
-https://github.com/misaproyectil/Sprite_Serial_Control
+
 https://github.com/Lzw655/ESP32_Display_Panel
 https://github.com/kaiaai/micro_ros_arduino_kaia
 https://github.com/MrYsLab/Telemetrix4UnoR4
